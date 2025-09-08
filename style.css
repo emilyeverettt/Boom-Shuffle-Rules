@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+
+.titlecolor {
+    color: aqua;
+    font-size: 48px; 
+    text-align: center;
+}
